@@ -23,7 +23,7 @@ Prerequisites:
 
 Step-by-Step Setup:
 1. Clone the repository <br><br>
-     git clone https://github.com/yourusername/semantic-spreadsheet-search.git <br>
+     git clone https://github.com/Adarsh-k0802/semantic_search_script.git <br>
      cd semantic_search_script
    
 2. Create a virtual environment<br><br>
